@@ -52,10 +52,6 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 
 <div align="center">
 
-<a href = "https://commits.top/philippines.html" target="_blank">
- <img src="https://enabophag4mizla.m.pipedream.net" alt="mavericks-db" target="_blank"/>
-</a>
-
 [![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
 ![](https://komarev.com/ghpvc/?username=mavericks-db)
@@ -90,84 +86,8 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 
 ---
 
-<!-- Recent Projects -->
-
-<!-- <a href="https://github.com/mavericks-db/portfolio"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=portfolio" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/capstone01"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/awesome-books-ES6"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=awesome-books-ES6" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/todo-list"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=todo-list" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/leaderboard"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=leaderboard" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/capstone02"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone02" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/math-magicians"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=math-magicians" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/bookstore"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=bookstore" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/space-travelers-hub"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=space-travelers-hub" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/capstone03"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone03" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/vet-clinic-database"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=vet-clinic-database" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/morse-decoder"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=morse-decoder" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/my-enumerable"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=my-enumerable" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/oop-school-library"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=oop-school-library" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/TDD-project"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=TDD-project" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/capstone04"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone04" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/BlogOnRails"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=BlogOnRails" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/RecipeOnRails"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=RecipeOnRails" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/BudgetOnRails"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=BudgetOnRails" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/hello-rails-react"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=hello-rails-react" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/hello-react-front-end"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=hello-react-front-end" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/hello-rails-back-end"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=hello-rails-back-end" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/BookRacers-Rails-Back-End"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=BookRacers-Rails-Back-End" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/mavericks-db/BookRacers-Rails-Front-End"> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=BookRacers-Rails-Front-End" /> -->
-<!-- </a> -->
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together! 🚀 <em>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 </div>
